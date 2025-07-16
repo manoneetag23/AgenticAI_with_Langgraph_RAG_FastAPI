@@ -1,0 +1,15 @@
+# Requirements_file: 
+
+ipykernel
+python-dotenv
+langchain
+langchain-groq 
+langchain-openai 
+langchain-community 
+langgraph 
+pydantic
+fastapi 
+uvicorn 
+streamlit 
+
+
